@@ -4,8 +4,7 @@ body {
   padding: 0;
   margin: auto;
   display: grid;
-  grid-gap:1em;
-  
+  grid-gap: 0.5em;
   }
 
 
